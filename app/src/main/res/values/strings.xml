@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cameratwo</string>
+    <string name="button_name">开始拍照</string>
 </resources>
